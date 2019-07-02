@@ -1,0 +1,19 @@
+---
+# An employee record
+name: Sonya D'vloper
+job: Devleoper
+skill: Elite
+employed: True
+foods:
+    - Apple
+    - Orange
+    - Potato
+    - Mango
+languages:
+    perl: Elite
+    python: Elite
+    pascal: Lame
+education: |
+    4 GCSEs
+    3 A-Levels
+    BSc in the Internet of Things
