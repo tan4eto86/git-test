@@ -1,6 +1,7 @@
 ---
 # An employee record
 name: Sonya D'vloper
+<<<<<<< HEAD
 job: Analyst
 skill: Elite
 employed: True
